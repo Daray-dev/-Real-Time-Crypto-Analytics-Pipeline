@@ -43,3 +43,14 @@ PHASE 2
 It's now time to fetch our data using API's that are essential to our pipeline.
 
 <img width="499" height="322" alt="image" src="https://github.com/user-attachments/assets/b5b15943-115c-4083-82ce-e66eb8fe4789" />
+
+
+
+=====================================================================================================================================================
+
+PHASE 3
+
+We have recieved the output - now it;s time to start structuring or SQL tables using SQL servers
+
+<img width="432" height="212" alt="image" src="https://github.com/user-attachments/assets/4c62d186-e6f4-4d7b-8499-68c3717644b9" />
+
