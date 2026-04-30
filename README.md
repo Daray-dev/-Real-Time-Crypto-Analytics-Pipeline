@@ -54,5 +54,8 @@ We have recieved the output - now it;s time to start structuring your DDL
 
 <img width="432" height="212" alt="image" src="https://github.com/user-attachments/assets/4c62d186-e6f4-4d7b-8499-68c3717644b9" />
 
+
+
+
 <img width="671" height="301" alt="image" src="https://github.com/user-attachments/assets/55261874-52d4-4373-8fa6-21b6d6a63a1b" />
 
