@@ -1,5 +1,19 @@
 # -Real-Time-Crypto-Analytics-Pipeline
 A production-style data engineering project that ingests, processes, and analyzes real-time cryptocurrency market data to generate actionable insights, anomaly detection, and market intelligence.
+
+
+
+
+
+
+<img width="1440" height="1640" alt="image" src="https://github.com/user-attachments/assets/139012e1-6890-4597-a1cf-52bfe782e668" />
+
+
+
+
+
+
+
 ====================================================================================================================================================================================================
 PHASE 1
 
