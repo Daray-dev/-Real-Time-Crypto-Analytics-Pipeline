@@ -73,8 +73,9 @@ We have recieved the output - now it;s time to start structuring your DDL
 
 
 
+========================================================================================================================================
 
-
+PHASE 6
 
 This pipeline is fully automated using Windows Task Scheduler.
 
