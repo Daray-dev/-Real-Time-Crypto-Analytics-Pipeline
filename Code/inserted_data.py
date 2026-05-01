@@ -25,8 +25,8 @@ print("fetched:", data)
 # --- Loop through each coin and insert --
 for coin_name, values in data.items():
     cursor.execute("""
-        INSERT INTO coin_watch (coin_name, usd, usd_24h_vol, usd_24h_change)
-        VALUES (?, ?, ?, ?)
+        INSERT INTO coin_watch (coin_name, usd, usd_24h_vol, usd_24h_change, fetch_at)
+        VALUES (?, ?, ?, ?, GETDATE())
     """,
         coin_name,
         values["usd"],
