@@ -70,7 +70,7 @@ Microsoft SQL Server (local or remote instance)
 SQL Server Management Studio (SSMS) — optional but recommended
 
 1. Clone the repository
-bashgit clone https://github.com/Daray-dev/-Real-Time-Crypto-Analytics-Pipeline.git
+bashgit clone https://https://github.com/Daray-dev/Real-Time-Crypto-Pipeline.git
 cd Real-Time-Crypto-Analytics-Pipeline
 2. Install dependencies
 bashpip install requests pyodbc
