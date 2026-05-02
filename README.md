@@ -1,8 +1,5 @@
 Real-Time Crypto Analytics Pipeline
-Show Image
-Show Image
-Show Image
-Show Image
+
 A production-style streaming data pipeline that ingests live cryptocurrency market data via public APIs, processes it in real time, applies anomaly detection logic, and loads it into SQL Server for time-series analytics and reporting.
 Built entirely in Python and T-SQL. No third-party orchestration frameworks — just clean, readable engineering fundamentals.
 
